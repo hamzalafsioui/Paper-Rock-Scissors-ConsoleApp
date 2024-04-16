@@ -20,10 +20,15 @@ Run: Execute the compiled program to start the Paper-Rock-Scissors game.
 #### Game Rules: The game follows the standard rules:
 
 Paper beats Rock
+
 Rock beats Scissors
+
 Scissors beats Paper
+
 Gameplay: Each round, you and the computer player will make a choice between Paper, Rock, or Scissors. The winner of the round is determined based on the game rules, and the score is updated accordingly.
+
 Play Again: After each round, you can choose to play another round or exit the game.
+
 Score Tracking: The game keeps track of the score for both you and the computer player, displaying it after each round.
 
 ## Technologies Used
